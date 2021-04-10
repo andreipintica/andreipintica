@@ -2,6 +2,8 @@
 
 🏢 Experienced System Engineer with a demonstrated history of working in the IT OPS field. Skilled in Windows, PowerShell,SCCM,Hyper-V, Azure Cloud,Active Directory,Windows Server Management and PowerShell.
 
+I’ve been in the IT industry for over 8 years and bring a wide range of experience in enterprise level End-user computing solutions, including Server-based computing, Cisco Networking Infrastructure, Virtual Desktop Infrastructure, Cloud Services and Desktop deployments. 
+
 📰 **Know more**
 
 - 🌐 I blog at [https://cloudopshub.net/](https://cloudopshub.net/)
