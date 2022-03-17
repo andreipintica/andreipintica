@@ -7,8 +7,7 @@ I’ve been in the IT industry for over 8 years and bring a wide range of experi
 
 📰 **Know more**
 
-- 🌐 I blog at [https://cloudopshub.net/](https://cloudopshub.net/)
-- 🔭 I’m currently working on ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- 🔭 I’m currently working with ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 - 🏆 Certifications: Microsoft Certified Azure Fundamentals (AZ-900),Microsoft Accessibility in Action
 , Microsoft Customer Service & Support (CSS) Virtual Machines, Service Ready for Technical Support (CSP-I) TSIA, Windows Server 2012 R2 (70-410), Windows PowerShell,Windows Supporting and troubleshooting, Udemy Front-End Web Developer.
 - 🎧 Hobbies: ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
