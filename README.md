@@ -42,7 +42,7 @@ I’ve been in the IT industry for over 8 years and bring a wide range of experi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreipintica&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreipintica)](https://github.com/andreipintica/github-readme-stats)
 
-[visitor badge](https://visitor-badge.glitch.me/badge?page_id=andreipintica.visitor-badge)
+
 
 
 
